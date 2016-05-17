@@ -1,0 +1,36 @@
+<application>
+  <component name="libraryTable">
+    <library name="scala-sdk-2.11.5">
+      <CLASSES>
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-actors-2.11.0.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-actors-migration_2.11-1.1.0.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-parser-combinators_2.11-1.0.3.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-reflect.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-swing_2.11-1.0.1.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-xml_2.11-1.0.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.11.5/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="scala-sdk-2.11.6" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.11.6/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>
